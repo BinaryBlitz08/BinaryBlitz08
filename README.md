@@ -8,7 +8,7 @@
 ## Since you are here, Please take a look at my [Portfolio](https://bhavyabharadwaj.netlify.app/)  <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" width="50">
 --- 
 
-## I have used an array of frameworks and tools over my years of programming. 
+I have used an array of frameworks and tools over my years of programming. 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
