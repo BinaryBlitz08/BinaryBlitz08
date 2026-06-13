@@ -35,3 +35,9 @@ I have used an array of frameworks and tools over my years of programming.
 </div>
 <br><br>    
 
+Would be nice to connect on LinkedIn:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/bhavya-bharadwaj-95949532b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
